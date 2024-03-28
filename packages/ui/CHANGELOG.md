@@ -1,3 +1,12 @@
+# Changelog
+
+## [1.1.1](https://github.com/Illustrova/changelog-test-semantic-release/compare/v1.1.0...v1.1.1) (2024-03-28)
+
+
+### Bug Fixes
+
+* **input:** remove input type url ([c2383f1](https://github.com/Illustrova/changelog-test-semantic-release/commit/c2383f167aeeec038a080f6eb54c2814a54e7839))
+
 Changelog
 
 # [1.1.0](https://github.com/Illustrova/changelog-test-semantic-release/compare/v1.0.1...v1.1.0) (2024-03-28)
