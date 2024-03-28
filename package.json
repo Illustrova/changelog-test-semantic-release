@@ -12,8 +12,10 @@
     "./packages/*",
     "main"
   ],
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "Irina Illustrova"
+
+  "author": "Irina Illustrova",
+  "devDependencies": {
+    "semantic-release-plus": "^20.0.0",
+    "@semantic-release/changelog": "^6.0.3"
+  }
 }

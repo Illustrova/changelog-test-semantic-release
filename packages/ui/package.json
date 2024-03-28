@@ -4,9 +4,27 @@
   "author": "Irina Illustrova",
   "description": "UI repo mock for testing changelog generation with Semantic Release workflow",
   "main": "src/index.ts",
-  "files": [
-    "src"
-  ],
+    "files": [
+      "src"
+    ],
+    "version": "0.7.39",
+  "scripts": {
+    "semantic-release": "semantic-release-plus"
+  },
+  "release": {
+    "branches": [
+      "dev"
+    ],
+    "commitPaths": [
+      "."
+    ],
+    "plugins": [
+      "@semantic-release/commit-analyzer",
+      "@semantic-release/release-notes-generator",
+      "@semantic-release/changelog"
+    ]
+  },
+
   "license": "ISC",
   "dependencies": {
     "classnames": "2.3.2"
