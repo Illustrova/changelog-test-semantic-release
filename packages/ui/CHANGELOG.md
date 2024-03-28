@@ -5,8 +5,6 @@
 
 * **button:** remove button type atttribute ([6d28033](https://github.com/Illustrova/changelog-test-semantic-release/commit/6d28033ede58d4339fb3675cc6e39b93dcd4ad66))
 
-# Changelog
-
 
 ### [0.7.39](https://github.com/some-url/ui/compare/v0.7.38...v0.7.39) (2020-11-19)
 
