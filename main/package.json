@@ -1,0 +1,11 @@
+{
+  "name": "@changelog-test-semantic-release/main",
+  "private": true,
+  "author": "Irina Illustrova",
+  "dependencies": {
+    "@types/react": "17.0.53",
+    "@types/react-dom": "17.0.19",
+    "react": "17.0.2",
+    "react-dom": "17.0.2"
+  }
+}

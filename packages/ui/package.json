@@ -1,0 +1,18 @@
+{
+  "name": "@changelog-test-semantic-release/ui",
+  "private": true,
+  "author": "Irina Illustrova",
+  "description": "UI repo mock for testing changelog generation with Semantic Release workflow",
+  "main": "src/index.ts",
+  "files": [
+    "src"
+  ],
+  "license": "ISC",
+  "dependencies": {
+    "classnames": "2.3.2"
+  },
+  "peerDependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "changelog-test-semantic-release",
+  "version": "1.0.0",
+  "description": "Test repository for different types of changelog generator packages",
+  "private": true,
+  "license": "MIT",
+  "engines": {
+    "node": "^20",
+    "npm": "^9"
+  },
+  "workspaces": [
+    "./packages/*",
+    "main"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Irina Illustrova"
+}
