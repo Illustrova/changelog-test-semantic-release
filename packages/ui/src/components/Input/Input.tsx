@@ -1,7 +1,7 @@
 import React from "react";
 
 type InputProps = {
-  type?: "text" | "number" | "url";
+  type?: "text" | "number";
 };
 
 export const Input = ({ type = "text", ...props }: InputProps) => {
