@@ -1,3 +1,12 @@
+Changelog
+
+# [1.1.0](https://github.com/Illustrova/changelog-test-semantic-release/compare/v1.0.1...v1.1.0) (2024-03-28)
+
+
+### Features
+
+* **input:** add input component with basic functionality ([0a503da](https://github.com/Illustrova/changelog-test-semantic-release/commit/0a503da6d8496dc1545afc46c169544befece6ba))
+
 ## [1.0.1](https://github.com/Illustrova/changelog-test-semantic-release/compare/v1.0.0...v1.0.1) (2024-03-28)
 
 
