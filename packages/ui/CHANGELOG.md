@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/Illustrova/changelog-test-semantic-release/compare/v1.0.0...v1.0.1) (2024-03-28)
+
+
+### Bug Fixes
+
+* **button:** remove button type atttribute ([6d28033](https://github.com/Illustrova/changelog-test-semantic-release/commit/6d28033ede58d4339fb3675cc6e39b93dcd4ad66))
+
 # Changelog
 
 
